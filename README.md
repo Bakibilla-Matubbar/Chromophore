@@ -1,14 +1,16 @@
 ````markdown
 # Thermally-Induced, Concentration-Driven Fifth-Order Nonlinear Optical Responses
 
-This repository contains the experimental data, analysis codes, and plotting scripts for studying third- and fifth-order nonlinear optical responses of a triarylmethane chromophore using the single-beam Z-scan technique at 660 nm.
+This repository contains the experimental data, analysis codes, and plotting scripts for studying third-
+and fifth-order nonlinear optical responses of a triarylmethane chromophore using
+the single-beam Z-scan technique.
 
 ## Contents
 
 - Experimental Z-scan data (Open and Closed Aperture)
 - UV-Vis spectroscopy data
 - Nonlinear phase-shift analysis
-- Calculation of $n_2$, $n_4$, and $\Delta n$
+- Calculation of n_2, n_4, and Delta n
 - Curve fitting and publication-quality figures
 
 ## Repository Structure
