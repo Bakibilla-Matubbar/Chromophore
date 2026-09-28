@@ -1,5 +1,3 @@
-Here is a shorter, clean **copy-paste `README.md`** based on your uploaded content. 
-
 ````markdown
 # Thermally-Induced, Concentration-Driven Fifth-Order Nonlinear Optical Responses
 
